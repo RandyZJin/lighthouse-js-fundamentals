@@ -1,5 +1,3 @@
 # lighthouse-js-fundamentals
 
-git add
-git commit -m
-git push origin master
+This is a list of files that were created as a part of the web development program at Lighthouse Labs.
